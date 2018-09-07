@@ -1,4 +1,4 @@
-# English-Test
+# English Test
 English Test is a Windows application that is used to test users’ knowledge about English.
 
 <img src="https://github.com/giabao4498/English-Test/blob/master/Screenshots/English%20Test%20(1).JPG">
